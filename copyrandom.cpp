@@ -1,6 +1,6 @@
 /*
-STT: 22520350
-Full Name: Nguyen Thi My Duyen
+STT: 22520268
+Full Name: Nguyễn An Đức
 Session 02 - Exercise 02
 Notes or Remarks: ......
 */
