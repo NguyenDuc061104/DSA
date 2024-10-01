@@ -1,5 +1,5 @@
-//STT: 22520639
-//Full Name: Ngô Hoàng Phương Khanh
+//STT: 22520268
+//Full Name: Nguyễn An Đức
 //Session 05 - Part 2 - Exercise 01
 //Notes or Remarks:
 
